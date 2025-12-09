@@ -3699,3 +3699,7 @@ details-disclosure > details {
   bottom: 0 !important;
 }
 
+
+.announcement-bar__message {
+font-size: 28px;
+}
