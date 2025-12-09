@@ -1,0 +1,7 @@
+<div class="cart_vat_id">
+  <label for="vat_id">VAT ID</label>
+  <p>Business customer and purchasing from outside of {{ shop.address.country }}?<br>Then add your VAT number for VAT free purchasing.</p>
+  <input type="text" name="attributes[vat_id]" placeholder="Your VAT number" />
+  <p class="vat_id_error_country" style="color: red; display: none;">Your country is the same as the vendor - VAT must still be charged. Leave box blank and click proceed.</p>
+  <p class="vat_id_error_invalid" style="color: red; display: none">This VAT number is invalid.</p>
+</div>
