@@ -18,14 +18,14 @@
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
-            "menu": "footer"
+            "menu": "recipes"
           }
         },
         "link_list_etR4iX": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
-            "menu": "footer"
+            "menu": "practice-footer-menu"
           }
         },
         "brand_information_rUaEVq": {
@@ -38,7 +38,7 @@
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
-            "menu": "footer"
+            "menu": "policies"
           }
         }
       },
